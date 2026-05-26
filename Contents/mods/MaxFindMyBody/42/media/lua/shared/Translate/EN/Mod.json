@@ -1,4 +1,4 @@
 {
 	"name": "[B42]Where did I die?",
-	"description": "Locate your last death spot. A green circle will mark the position."
+	"description": "Locate your last death spot. A green circle will mark the position. Defauit press Keybind 'U' to clear the Marker."
 }
