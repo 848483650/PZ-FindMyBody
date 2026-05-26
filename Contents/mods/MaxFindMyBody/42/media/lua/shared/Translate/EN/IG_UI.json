@@ -1,0 +1,12 @@
+{
+  "IGUI_ModOptions_FindMyBodyModName": "Where I die?",
+  "IGUI_ModOptions_FindMyBodyKeybindDesc": "KeyBind",
+  "IGUI_ModOptions_FindMyBodyKeybind_Name": "Clear Marker.",
+  "IGUI_ModOptions_FindMyBodyKeybind_Tooltip": "Press to Clear your marker.",
+  "IGUI_ModOptions_FindMyBodyKeybindUpdate_Name": "TODO",
+  "IGUI_ModOptions_FindMyBodyKeybindUpdate_Tooltip": "TODO",
+  "IGUI_PlayerText_UpdateLocation": "TODO",
+  "IGUI_PlayerText_UpdateLocationNo": "TODO",
+  "IGUI_PlayerText_PlayerAfterDead": "TODO",
+  "IGUI_PlayerText_ClearMarker": "Successfully cleared"
+}

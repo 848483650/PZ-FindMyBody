@@ -1,23 +1,27 @@
 FindMyBodyServer = {
     findBodymarker = nil
 }
-local px, py = nil, nil
+local px, py, pz = nil, nil, nil
 
 ---@param player IsoPlayer
 function OnPlayerDeath(player)
     FindMyBodyServer.reset()
     px = player:getX()
     py = player:getY()
-
+    pz = player:getZ()
     if FindMyBodyServer.findBodymarker == nil then
         FindMyBodyServer.findBodymarker = FindMyBodyServer.addMarker(px, py)
     end
 end
 
+function FindMyBodyServer.updateLocation()
+
+end
+
 function FindMyBodyServer.reset()
     if FindMyBodyServer.findBodymarker ~= nil then FindMyBodyServer.removeMarker(FindMyBodyServer.findBodymarker) end
     FindMyBodyServer.findBodymarker = nil
-    px, py = nil, nil
+    px, py, pz = nil, nil, nil
 end
 
 function FindMyBodyServer.addMarker(x, y)

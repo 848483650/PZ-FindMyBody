@@ -1,6 +1,6 @@
-name=[B42]寻找尸体
+name=[B42]我死哪了?
 id=MAX_FindMyBody
-description=寻找尸体
+description=寻找最后一次死在哪里,最后一次死的位置将会出现一个绿色的圈圈
 author=Maxfield
-poster=icon.png
-icon=icon.png
+poster=preview.png
+icon=preview.png
