@@ -2,5 +2,11 @@
   "IGUI_ModOptions_FindMyBodyModName": "我的尸体",
   "IGUI_ModOptions_FindMyBodyKeybindDesc": "快捷键",
   "IGUI_ModOptions_FindMyBodyKeybind_Name": "清除地图标记",
-  "IGUI_ModOptions_FindMyBodyKeybind_Tooltip": "按下后清除死亡后的位置"
+  "IGUI_ModOptions_FindMyBodyKeybind_Tooltip": "按下后清除死亡后的位置",
+  "IGUI_ModOptions_FindMyBodyKeybindUpdate_Name": "更新位置",
+  "IGUI_ModOptions_FindMyBodyKeybindUpdate_Tooltip": "更新僵尸化后的尸体的位置",
+  "IGUI_PlayerText_UpdateLocation": "已更新位置",
+  "IGUI_PlayerText_UpdateLocationNo": "未僵尸化无需更新",
+  "IGUI_PlayerText_PlayerAfterDead": "我好像想起来上一世我在哪里死的了",
+  "IGUI_PlayerText_ClearMarker": "成功清除"
 }
