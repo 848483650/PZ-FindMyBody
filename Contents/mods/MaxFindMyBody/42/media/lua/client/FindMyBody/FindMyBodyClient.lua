@@ -1,5 +1,5 @@
 local ModOptions = require("FindMyBody/ModOptions")
-local FindMyBodyServer = require("FindMyBody/FindMyBodyServer")
+FindMyBodyServer = require("FindMyBody/FindMyBodyServer")
 
 ---@param key Integer
 function OnKeyPressed(key)
