@@ -5,8 +5,11 @@ local FindMyBodyClient = {
 local px, py, pz = nil, nil, nil
 local marker = nil
 
-
+---@param key Integer
 function OnKeyPressed(key)
+    if key == ModOptions.KeyBindClear then
+        
+    end
 end
 
 ---@param player IsoPlayer
