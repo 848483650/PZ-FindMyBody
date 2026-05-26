@@ -1,6 +1,6 @@
-name=[B42]我死哪了?
-id=MAX_FindMyBody
+version=1
+id=3733306447
+title=[B42]我死哪了?
 description=寻找最后一次死在哪里,最后一次死的位置将会出现一个绿色的圈圈 默认按下U清除标记
-author=Maxfield
-poster=preview.png
-icon=preview.png
+tags=Build 42;Interface;Map;Misc
+visibility=public
