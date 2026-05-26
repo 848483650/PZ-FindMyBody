@@ -1,3 +1,5 @@
+local ModOptions = require("FindMyBody/ModOptions")
+
 local FindMyBodyClient = {
 }
 local px, py, pz = nil, nil, nil
